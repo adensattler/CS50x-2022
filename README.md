@@ -7,6 +7,7 @@ I created this repository to save all my solutions for the problems proposed on 
 > Quick word! If you're considering taking this course, I highly recommend you to do it. It's an amazing course and you'll not regret it :rocket:
 
 - [Week 1](/week1)
+    - test
     -[hello](/hello)
   -[cash](/cash)
   -[credit](/credit)
