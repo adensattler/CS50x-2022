@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <link href="styles.css" rel="stylesheet">
+        <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+        <script>
+            var app = document.getElementById('app');
+
+            var typewriter = new Typewriter(app, {
+            loop: true,
+            delay: 75,
+            });
+
+            typewriter
+            .pauseFor(2500)
+            .typeString('A simple yet powerful native javascript')
+            .pauseFor(300)
+            .deleteChars(10)
+            .typeString('<strong>JS</strong> plugin for a cool typewriter effect and ')
+            .typeString('<strong>only <span style="color: #27ae60;">5kb</span> Gzipped!</strong>')
+            .pauseFor(1000)
+            .start();
+
+        </script>
+        <title>My Webpage</title>
+    </head>
+
+
+
+    <body>
+        <div class="container-fluid">
+            <ul class="nav centered m-3">
+                <li class="nav-item">
+                    <a class="nav-link text-dark navie" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark navie" href="about.html">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark navie" href="education.html">Education</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark navie" href="projects.html">Projects</a>
+                </li>
+            </ul>
+
+            <h4>Hey! I made a little table to describe some projects that I have done!</h4>
+            <p>They definitely aren't the most impressive considering I haven't been doing this for very long.</p>
+            <table class="table">
+                <thead>
+                    <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Lang.</th>
+                    <th scope="col">Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                    <th scope="row">1</th>
+                    <td>Networked GUI Boggle</td>
+                    <td>Python</td>
+                    <td>Recreated the 2-player Boggle game using a socket server, tkinter, and a number of other tools</td>
+                    </tr>
+                    <tr>
+                    <th scope="row">2</th>
+                    <td>CS50 Tideman</td>
+                    <td>C</td>
+                    <td>This was probably one of the most mentally intensive problems that I have solved thus far! Super interesting.</td>
+                    </tr>
+                    <tr>
+                    <th scope="row">3</th>
+                    <td>Automated Plate Checker</td>
+                    <td>Python</td>
+                    <td>I haven't done this yet but I would love to try and make a web-scraping program that find custom license plate availablilty!</td>
+                    </tr>
+                </tbody>
+
+            </table>
+            <p id="app">
+                <span class="Typewriter__cursor">|</span>
+                <span class="Typewriter__wrapper"></span>
+            </p>
+        </div>
+        <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+    </body>
+</html>

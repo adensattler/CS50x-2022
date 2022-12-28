@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: This algorithim takes nearly the least amount of time to sort an already sorted algorithim which is consistent with bubble sort's big omega of only N while also displaying a big O of n^2 due to its long running time sorting a random list.
+
+sort2 uses: Merge Sort
+
+How do you know?: The time it takes this sorting algorithim to complete does not scale exponentially with the size of a list and therfore has a big O of nlogn!
+
+sort3 uses: Selection Sort
+
+How do you know?: This algo takes the most amount of time to sort a sorted list which is consistent with selection sort's big omega of n^2.

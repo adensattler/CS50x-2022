@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Log In
+{% endblock %}
+
+{% block main %}
+    <p>A share of {{ stock_info["name"] }} ({{ stock_info["symbol"] }}) costs {{ usd(stock_info["price"]) }}.</p>
+{% endblock %}
