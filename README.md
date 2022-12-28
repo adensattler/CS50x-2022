@@ -1,10 +1,8 @@
 # [CS50x 2022 — Introduction to Computer Science](https://cs50.harvard.edu/x/2021/)
 
-CS50x is a Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. You can find the materials and more about the course [here](https://cs50.harvard.edu/x).
+Hey! Here are all the problem sets I completed for CS50x 2022
 
-I created this repository to save all my solutions for the problems proposed on the course. Every exercise scored 100% on submission!
-
-> Quick word! If you're considering taking this course, I highly recommend you to do it. It's an amazing course and you'll not regret it :rocket:
+Make sure to solve these problems before you take a look at my solutions! Some of the psets took me an absurd amount of time to finish but I promise it's worth it in the end.
 
 ## Table of Contents
 
@@ -17,8 +15,6 @@ I created this repository to save all my solutions for the problems proposed on 
 - [Week 7: SQL](#week-7)
 - [Week 8: HTML,CSS,JaveScript](#week-8)
 - [Week 9: Flask](#week-9)
-
-## C
 
 ## [Week 1](/week1)
 - [hello](/week1/hello/hello.c)
@@ -44,8 +40,6 @@ I created this repository to save all my solutions for the problems proposed on 
 ## [Week 5](/week5)
 - [inheritance](/week5/inheritance/inheritance.c)
 - [speller](/week5/speller/speller.c)
-
-## Python, SQL, HTML, and CSS!
 
 ## [Week 6](/week6)
 - [dna](/week6/dna/dna.py)
