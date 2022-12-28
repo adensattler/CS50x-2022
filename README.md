@@ -6,7 +6,19 @@ I created this repository to save all my solutions for the problems proposed on 
 
 > Quick word! If you're considering taking this course, I highly recommend you to do it. It's an amazing course and you'll not regret it :rocket:
 
-- [Week 1](/week1)
-    - [hello](/week1/hello)
-    - [cash](/cash)
-    - [credit](/credit)
+## Table of Contents
+
+- [Week 1: C](#week-1)
+- [Week 2: Arrays](#week-2)
+- [Week 3: Algorithms](#week-3)
+- [Week 4: Memory](#week-4)
+- [Week 5: Data Structures](#week-5)
+- [Week 6: Python](#week-6)
+- [Week 7: SQL](#week-7)
+- [Week 8: HTML,CSS,JaveScript](#week-8)
+- [Week 9: Flask](#week-9)
+
+## [Week 1](/week1)
+- [hello](/week1/hello/hello.c)
+- [cash](/week1/cash/cash.c)
+- [credit](/week1/credit/credit.c)
