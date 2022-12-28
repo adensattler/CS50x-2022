@@ -1,4 +1,4 @@
-# [CS50x 2022 — Introduction to Computer Science](https://cs50.harvard.edu/x/2021/)
+# [CS50x 2022 — Introduction to Computer Science](cs50.harvard.edu/x)
 
 Hey! Here are all the problem sets I completed for CS50x 2022
 
