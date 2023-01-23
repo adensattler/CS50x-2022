@@ -61,3 +61,6 @@ Make sure to solve these problems before you take a look at my solutions! Some o
 ## [Week 9](/week9)
 - [birthdays](/birthdays)
 - [finance](/finance)
+
+## [Week 10](/week10)
+- [final project] (/project/PlateChecker.py)
