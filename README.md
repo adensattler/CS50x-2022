@@ -15,6 +15,7 @@ Make sure to solve these problems before you take a look at my solutions! Some o
 - [Week 7: SQL](#week-7)
 - [Week 8: HTML,CSS,JaveScript](#week-8)
 - [Week 9: Flask](#week-9)
+- [Week 10: Final Project] (#week-10)
 
 ## [Week 1](/week1)
 - [hello](/week1/hello/hello.c)
