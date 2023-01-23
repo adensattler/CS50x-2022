@@ -64,4 +64,5 @@ Make sure to solve these problems before you take a look at my solutions! Some o
 - [finance](/finance)
 
 ## [Week 10](/week10)
-- [final project] (/project/PlateChecker.py)
+- [final project]
+- [final project] (/week10/project/PlateChecker.py)
